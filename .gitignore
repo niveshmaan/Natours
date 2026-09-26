@@ -1,0 +1,18 @@
+# Original ZIP archives
+css.zip
+sass.zip
+images (2).zip
+
+# macOS files
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Sass cache
+.sass-cache/
